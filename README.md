@@ -1,2 +1,6 @@
-# Tumour_Tagger
-A machine learning project that classifies breast tumours as benign or malignant using Logistic Regression. Built with Python and Scikit-learn, this project includes data cleaning, analysis, model training, and performance evaluation.
+->  Project Guide
+This project was completed under the guidance of
+**Dr. Anjum Y. Mansuri**, Assistant Professor, Computer Applications,
+LJ Institute of Computer Applications, LJ University, Ahmedabad.
+GitHub: [@anjum-mansuri](https://github.com/anjum-mansuri)
+Course : ML-1 Lab(IMCA SEV 5) | Project ID : P21
